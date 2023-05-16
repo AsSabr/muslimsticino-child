@@ -1,0 +1,55 @@
+body {
+  line-height: 1.5em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  position: relative;
+  letter-spacing: 1px;
+}
+
+h1,
+h2 {
+  line-height: 1.7em;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.5em;
+}
+
+p {
+  word-wrap: break-word;
+}
+
+button {
+  cursor: pointer;
+  line-height: 1;
+}
+
+img {
+  display: block;
+}
+
+video {
+  aspect-ratio: 16/9;
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+}
+
+a {
+  transition: .2s ease;
+}
+
+.screen-reader-text {
+  display: none;
+}

@@ -1,0 +1,10 @@
+.lmt_nav {
+  @media (max-width: 768px) {
+    &.jet-mobile-menu--left-side.jet-nav-wrap .jet-nav.m-layout-mobile,
+    &.jet-mobile-menu--right-side.jet-nav-wrap .jet-nav.m-layout-mobile {
+      background-color: #003840;
+      width: 100%;
+      padding-top: 36px;
+    }
+  }
+}
